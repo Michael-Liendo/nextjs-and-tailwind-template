@@ -1,2 +1,1 @@
-
 # nextjs and tailwind template
